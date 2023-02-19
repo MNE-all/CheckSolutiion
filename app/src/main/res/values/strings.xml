@@ -1,0 +1,19 @@
+<resources>
+    <string name="total">Итого проверено примеров</string>
+    <string name="app_name">Проверка решений</string>
+    <string name="start">Старт</string>
+    <string name="next">Далее</string>
+    <string name="right">Правильно</string>
+    <string name="lose">Не правильно</string>
+    <string name="time">ВРЕМЯ (сек)</string>
+    <string name="min">Минимум</string>
+    <string name="max">Максимум</string>
+    <string name="avg">Среднее</string>
+    <string name="zero">0</string>
+    <string name="zeroFloat">0,00</string>
+    <string name="zeroPercent">0,00%</string>
+    <string name="plus">+</string>
+    <string name="equal">=</string>
+    <string name="rightBtn">Верно</string>
+    <string name="loseBtn">Неверно</string>
+</resources>
